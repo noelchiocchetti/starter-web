@@ -11,12 +11,15 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the mai purpose is to
+provide simple examples for GIT training
+demos.
 
 <<<<<<< HEAD
 ## Deployment
 
+This is a simple web project, deployment
+can be on any web server or even local
+file system
 
-=======
->>>>>>> 6be63bacefac7dff2b320af759515a276d411f7c
 ## How To Contribute
