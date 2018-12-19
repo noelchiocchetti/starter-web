@@ -31,4 +31,4 @@ for review.
 
 ### Copyright
 
-2018 Noel GIT Training
+2018 Noel GIT Training. All rights reserved.
