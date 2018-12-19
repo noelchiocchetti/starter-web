@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Noel Chiocchetti  -- GIT Expert -- nc@chiocchetti.ch
 
 # THANKS
 
